@@ -11,8 +11,12 @@
             "id": "09b2dcf833ecbb7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인물/황룡.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_1Project/ORIEZ/설정/인물/황룡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_1Project/ORIEZ/설정/인물/황룡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인물/황룡.md"
+              }
             }
           }
         ],
@@ -140,8 +148,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09b2dcf833ecbb7e",
+  "active": "84b5b7a3dbb93dad",
   "lastOpenFiles": [
+    "Templete/인물.md",
     "Callout 모음.md",
     "test.md",
     "_1Project/ORIEZ/설정/인물/황룡.md",
@@ -158,7 +167,6 @@
     "_3Resource/Fonts",
     "_3Resource/Fonts/NanumDaHaengCe.ttf",
     "Templete/보명.md",
-    "Templete/인물.md",
     "PARA.md",
     "Templete",
     "Excalidraw/Drawing 2024-05-07 21.08.52.excalidraw.md",
