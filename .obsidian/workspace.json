@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e08d23d835a9ad93",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aed20c02fd03ff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b2dcf833ecbb7e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ac7edfd6c9cd612",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec397ec73c74f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b5b7a3dbb93dad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7df652272d663565",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f650b662c4eb83ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "89b4b10347dc0f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "40cc2a0f161c329b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22ba62d546955687",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cf00e90c553e93b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d975775487429e0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "503c7d5bf38680ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "09b2dcf833ecbb7e",
+  "lastOpenFiles": [
+    "Callout 모음.md",
+    "test.md",
+    "_1Project/ORIEZ/설정/인물/황룡.md",
+    "_3Resource/css.css.md",
+    "_1Project/ORIEZ/설정",
+    "_1Project/ORIEZ",
+    "_2Area/한처음에.md",
+    "_2Area/~$한처음에.docx",
+    "_2Area/한처음에.docx",
+    "~$한처음에.docx",
+    "Excalidraw/Drawing 2024-05-07 23.04.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-07 21.29.19.excalidraw.md",
+    "_3Resource/Fonts",
+    "_3Resource/Fonts/NanumDaHaengCe.ttf",
+    "Templete/보명.md",
+    "Templete/인물.md",
+    "PARA.md",
+    "Templete",
+    "Excalidraw/Drawing 2024-05-07 21.08.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-07 21.03.26.excalidraw.md",
+    "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
+    "Excalidraw",
+    "sdsd asd.md",
+    "_3Resource/Images",
+    "_3Resource/Images/Pasted image 20240506233136.png",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

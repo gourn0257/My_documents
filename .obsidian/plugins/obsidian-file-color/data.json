@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "RzuedhAN8mwpUOI2QW73I",
+      "name": "test",
+      "value": "#b7a8ff"
+    },
+    {
+      "id": "eiAwsdGOY8M-Kwr9bM1aB",
+      "name": "인물",
+      "value": "#ffff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "test.md",
+      "color": "RzuedhAN8mwpUOI2QW73I"
+    },
+    {
+      "path": "_1Project/ORIEZ/설정/인물",
+      "color": "eiAwsdGOY8M-Kwr9bM1aB"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "showInlineTitle": false,
+  "rightToLeft": false,
+  "showIndentGuide": false,
+  "strictLineBreaks": false,
+  "vimMode": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "tabSize": 4,
+  "useTab": false,
+  "showUnsupportedFiles": true
+}
