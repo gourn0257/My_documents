@@ -10,5 +10,6 @@
   "readableLineLength": true,
   "tabSize": 4,
   "useTab": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "livePreview": false
 }
