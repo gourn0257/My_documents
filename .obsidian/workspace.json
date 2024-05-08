@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "7aed20c02fd03ff7",
+        "id": "96a73d2b6c6e767c",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c107214246fd4e",
+            "id": "6d1cf2449c9748f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인물/고대룡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fdeb90af027c8032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c4a17731952166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인물/황룡.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인물/고대룡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인물/고대룡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "_1Project/ORIEZ/설정/인물/고대룡.md"
               }
             }
           },
@@ -156,15 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2c107214246fd4e",
+  "active": "6d1cf2449c9748f4",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/인물/고대룡.md",
     "_1Project/ORIEZ/설정/인물/황룡.md",
+    "_1Project/ORIEZ/설정/인물/고대룡.md",
+    "test.md",
     "_1Project/ORIEZ/설정/인물/흑룡.md",
     "README.md",
     "Templete/인물.md",
     "Callout 모음.md",
-    "test.md",
     "_3Resource/css.css.md",
     "_1Project/ORIEZ/설정",
     "_1Project/ORIEZ",
