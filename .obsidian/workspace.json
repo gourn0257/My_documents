@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md"
+                "file": "_1Project/ORIEZ/설정/보명.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "b22236e0ae061203",
   "lastOpenFiles": [
-    "test.md",
     "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/설정/보명.md",
+    "test.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/고대룡.md",
