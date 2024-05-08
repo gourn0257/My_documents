@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/고대룡.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "31507a5d1cbb221b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7970c0b1dcfc30ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
+                "file": "_1Project/ORIEZ/인물/고대룡.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/고대룡.md",
+                "file": "_1Project/ORIEZ/인물/고대룡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/고대룡.md",
+                "file": "_1Project/ORIEZ/인물/고대룡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/고대룡.md"
+                "file": "_1Project/ORIEZ/인물/고대룡.md"
               }
             }
           },
@@ -176,9 +158,9 @@
   },
   "active": "6d1cf2449c9748f4",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/인물/흑룡.md",
-    "_1Project/ORIEZ/설정/인물/고대룡.md",
-    "_1Project/ORIEZ/설정/인물/황룡.md",
+    "_1Project/ORIEZ/인물/흑룡.md",
+    "_1Project/ORIEZ/인물/고대룡.md",
+    "_1Project/ORIEZ/인물/황룡.md",
     "test.md",
     "README.md",
     "Templete/인물.md",
