@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

@@ -7,7 +7,7 @@
   "propertiesInDocument": "visible",
   "showLineNumber": false,
   "spellcheck": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "tabSize": 4,
   "useTab": false,
   "showUnsupportedFiles": true,
