@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
+                "file": "Templete/말씀.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
+                "file": "Templete/말씀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
+                "file": "Templete/말씀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md"
+                "file": "Templete/말씀.md"
               }
             }
           },
@@ -157,15 +157,21 @@
   },
   "active": "cdbc430f286520f0",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/12존재.md",
-    "test.md",
-    "_1Project/ORIEZ/설정/보명.md",
+    "_2Area/말씀/24-05-08.md",
+    "Templete/말씀.md",
     "Callout 모음.md",
+    "_2Area/말씀",
+    "_2Area/소설",
+    "_1Project/ORIEZ/인물/황룡.md",
+    "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
+    "Templete/보명.md",
+    "_1Project/ORIEZ/설정/보명.md",
+    "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/인물/고대룡.md",
+    "test.md",
     "README.md",
     "PARA.md",
     "_1Project/ORIEZ/인물/흑룡.md",
-    "_1Project/ORIEZ/인물/황룡.md",
-    "_1Project/ORIEZ/인물/고대룡.md",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "_3Resource/Images/Pasted image 20240506233136.png",
     "Templete/인물.md",
@@ -174,20 +180,16 @@
     "_1Project/ORIEZ",
     "_2Area/한처음에.md",
     "_2Area/~$한처음에.docx",
-    "_2Area/한처음에.docx",
+    "_2Area/소설/한처음에.docx",
     "~$한처음에.docx",
     "Excalidraw/Drawing 2024-05-07 23.04.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
     "Excalidraw/Drawing 2024-05-07 21.29.19.excalidraw.md",
     "_3Resource/Fonts",
     "_3Resource/Fonts/NanumDaHaengCe.ttf",
-    "Templete/보명.md",
     "Templete",
     "Excalidraw/Drawing 2024-05-07 21.08.52.excalidraw.md",
     "Excalidraw/Drawing 2024-05-07 21.03.26.excalidraw.md",
-    "Excalidraw",
     "sdsd asd.md",
-    "_3Resource/Images",
     "create a link.md",
     "Welcome.md"
   ]
