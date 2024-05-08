@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f2d55852d5e164",
+        "id": "1e085120f249c019",
         "type": "tabs",
         "children": [
           {
-            "id": "56b1d21a43b38078",
+            "id": "b22236e0ae061203",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56b1d21a43b38078",
+  "active": "b22236e0ae061203",
   "lastOpenFiles": [
     "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/인물/고대룡.md",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "_3Resource/Images/Pasted image 20240506233136.png",
-    "_1Project/ORIEZ/인물/고대룡.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "test.md",
