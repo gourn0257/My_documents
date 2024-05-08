@@ -29,12 +29,8 @@
             "id": "cebf5ac39e6a0286",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/인물/흑룡.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +168,8 @@
   },
   "active": "cebf5ac39e6a0286",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/인물/황룡.md",
     "_1Project/ORIEZ/설정/인물/흑룡.md",
+    "_1Project/ORIEZ/설정/인물/황룡.md",
     "README.md",
     "Templete/인물.md",
     "Callout 모음.md",
