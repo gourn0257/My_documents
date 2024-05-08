@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09b2dcf833ecbb7e",
+            "id": "f2c107214246fd4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/인물/황룡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "819e9de96b3453d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cebf5ac39e6a0286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/황룡.md",
+                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/황룡.md",
+                "file": "_1Project/ORIEZ/설정/인물/흑룡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +143,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인물/황룡.md"
+                "file": "_1Project/ORIEZ/설정/인물/흑룡.md"
               }
+            }
+          },
+          {
+            "id": "94e145f834e5c750",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,13 +174,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84b5b7a3dbb93dad",
+  "active": "cebf5ac39e6a0286",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/설정/인물/황룡.md",
+    "_1Project/ORIEZ/설정/인물/흑룡.md",
     "README.md",
     "Templete/인물.md",
     "Callout 모음.md",
     "test.md",
-    "_1Project/ORIEZ/설정/인물/황룡.md",
     "_3Resource/css.css.md",
     "_1Project/ORIEZ/설정",
     "_1Project/ORIEZ",
