@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트 고르기.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노트 고르기.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노트 고르기.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노트 고르기.md"
+                "file": "test.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "0523930cd4a0ef17",
   "lastOpenFiles": [
-    "README.md",
     "노트 고르기.md",
+    "2024-05-09.md",
+    "README.md",
     "_2Area/말씀/24-05-08.md",
     "Templete/말씀.md",
     "Callout 모음.md",
