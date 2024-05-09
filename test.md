@@ -1,13 +1,6 @@
 ---
-난이도: 중 ㅁㄴㅇㄴㅇ
+난이도: 중
 속성: 불
-aliases: 
-excalidraw-link-brackets: false
-tags:
-  - excalidraw
-cssclasses:
-  - ㅇㅁㅇ
-  - ㅁㄴㅇㄴ
 ---
 
 
