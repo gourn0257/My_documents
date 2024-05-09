@@ -1,6 +1,8 @@
 ---
 난이도: 중
 속성: 불
+cssclasses:
+  - id1
 ---
 
 
@@ -36,7 +38,7 @@ sdsd
 
 
 
-<span class="id">test</span>
+<span class="id1">id1</span>
 
 : sdsdsd
 
