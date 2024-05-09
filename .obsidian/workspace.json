@@ -11,11 +11,14 @@
             "id": "b3ef3ce85b8d3229",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md",
-                "mode": "source",
-                "source": true
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": -19.199951171875,
+                  "y": 549.2040100617984,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/12존재.md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -167,6 +170,8 @@
   },
   "active": "b3ef3ce85b8d3229",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "_1Project/ORIEZ/설정/12존재.md",
     "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/인물/고대룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
@@ -183,7 +188,6 @@
     "_2Area/소설",
     "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
     "Templete/보명.md",
-    "_1Project/ORIEZ/설정/12존재.md",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "_3Resource/Images/Pasted image 20240506233136.png",
     "Templete/인물.md",
