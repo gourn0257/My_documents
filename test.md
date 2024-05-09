@@ -1,6 +1,10 @@
 ---
 난이도: 중
 속성: 불
+aliases: 
+excalidraw-link-brackets: false
+tags:
+  - excalidraw
 ---
 
 
@@ -38,8 +42,7 @@ sdsd
 
 <span class="id">test</span>
 
+: sdsdsd
 
-| ㅇㄹㅇㄹ | ㅇㄹㅇ   |
-| -------- | -------- |
-| ㅇㄹㄹㅇ | ㅇㄹㄹㅇ |
-ㄴㅇ
+
+난이도

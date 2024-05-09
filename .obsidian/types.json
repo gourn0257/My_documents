@@ -12,7 +12,7 @@
     "excalidraw-export-embed-scene": "checkbox",
     "excalidraw-link-prefix": "text",
     "excalidraw-url-prefix": "text",
-    "excalidraw-link-brackets": "checkbox",
+    "excalidraw-link-brackets": "date",
     "excalidraw-onload-script": "text",
     "excalidraw-linkbutton-opacity": "number",
     "excalidraw-default-mode": "text",
