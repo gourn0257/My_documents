@@ -11,15 +11,8 @@
             "id": "b3ef3ce85b8d3229",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": -19.199951171875,
-                  "y": 549.2040100617984,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 파일.canvas"
-              }
+              "state": {}
             }
           },
           {
