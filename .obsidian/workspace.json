@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "76fb902d191595ec",
+        "id": "d015cca49e20590c",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ef3ce85b8d3229",
+            "id": "a16e1b1f1a128de6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -157,22 +157,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3ef3ce85b8d3229",
+  "active": "a16e1b1f1a128de6",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "_1Project/ORIEZ/설정/12존재.md",
-    "_1Project/ORIEZ/설정/보명.md",
-    "_1Project/ORIEZ/인물/고대룡.md",
-    "_1Project/ORIEZ/인물/황룡.md",
-    "_1Project/ORIEZ/인물/흑룡.md",
+    "_2Area/말씀/24-05-08.md",
     "test.md",
-    "README.md",
+    "Callout 모음.md",
     "PARA.md",
+    "README.md",
+    "_1Project/ORIEZ/설정/보명.md",
+    "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/인물/흑룡.md",
+    "_1Project/ORIEZ/인물/황룡.md",
+    "_1Project/ORIEZ/인물/고대룡.md",
+    "무제 파일.canvas",
     "노트 고르기.md",
     "2024-05-09.md",
-    "_2Area/말씀/24-05-08.md",
     "Templete/말씀.md",
-    "Callout 모음.md",
     "_2Area/말씀",
     "_2Area/소설",
     "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
