@@ -1,3 +1,18 @@
 span.id1 {
     color: red;
 }
+
+/* .callout-fullsize {
+
+    margin: 0 auto;
+    width: 130%;
+} */
+
+/* markdown-preview-view {
+    width: 100%;
+} */
+
+
+[data-path^="obsidian://open?vault=My%20documents&file=_1Project%2FORIEZ%2F%EC%84%A4%EC%A0%95%2F%EB%B3%B4%EB%AA%85"] .callout[data-callout="cite"] {
+    width: 130%;
+}

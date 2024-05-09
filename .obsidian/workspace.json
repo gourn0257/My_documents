@@ -11,8 +11,12 @@
             "id": "a16e1b1f1a128de6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/보명.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_1Project/ORIEZ/설정/보명.md"
+              }
             }
           },
           {
@@ -159,27 +167,28 @@
   },
   "active": "a16e1b1f1a128de6",
   "lastOpenFiles": [
+    "Templete/todo.md",
+    "_1Project/ORIEZ/설정/보명.md",
+    "Templete/보명.md",
+    "Templete/인물.md",
+    "Templete/말씀.md",
+    "_1Project/ORIEZ/인물/고대룡.md",
+    "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/인물/흑룡.md",
+    "_1Project/ORIEZ/인물/황룡.md",
     "_2Area/말씀/24-05-08.md",
     "test.md",
     "Callout 모음.md",
     "PARA.md",
     "README.md",
-    "_1Project/ORIEZ/설정/보명.md",
-    "_1Project/ORIEZ/설정/12존재.md",
-    "_1Project/ORIEZ/인물/흑룡.md",
-    "_1Project/ORIEZ/인물/황룡.md",
-    "_1Project/ORIEZ/인물/고대룡.md",
     "무제 파일.canvas",
     "노트 고르기.md",
     "2024-05-09.md",
-    "Templete/말씀.md",
     "_2Area/말씀",
     "_2Area/소설",
     "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
-    "Templete/보명.md",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "_3Resource/Images/Pasted image 20240506233136.png",
-    "Templete/인물.md",
     "_3Resource/css.css.md",
     "_1Project/ORIEZ/설정",
     "_1Project/ORIEZ",
