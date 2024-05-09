@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_2Area/말씀/24-05-08.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0523930cd4a0ef17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "노트 고르기.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_2Area/말씀/24-05-08.md",
+                "file": "노트 고르기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_2Area/말씀/24-05-08.md",
+                "file": "노트 고르기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_2Area/말씀/24-05-08.md"
+                "file": "노트 고르기.md"
               }
             }
           },
@@ -155,10 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97ff04bda2017dbe",
+  "active": "0523930cd4a0ef17",
   "lastOpenFiles": [
-    "Templete/말씀.md",
+    "README.md",
+    "노트 고르기.md",
     "_2Area/말씀/24-05-08.md",
+    "Templete/말씀.md",
     "Callout 모음.md",
     "_2Area/말씀",
     "_2Area/소설",
@@ -169,7 +184,6 @@
     "_1Project/ORIEZ/설정/12존재.md",
     "_1Project/ORIEZ/인물/고대룡.md",
     "test.md",
-    "README.md",
     "PARA.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
