@@ -3,7 +3,7 @@
     {
       "name": "Large Yellow",
       "css": "font-size: 20px; color: yellow",
-      "contextMenu": true
+      "contextMenu": false
     }
   ]
 }
