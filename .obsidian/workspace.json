@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/12존재.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/12존재.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/12존재.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md"
+                "file": "_1Project/ORIEZ/설정/12존재.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "d9b5d6a4fc75e062",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/12존재.md",
     "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/설정/12존재.md",
     "_1Project/ORIEZ/설정/보명.md",
     "test.md",
     "Templete/todo.md",
