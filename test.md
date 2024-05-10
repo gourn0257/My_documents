@@ -88,4 +88,5 @@ $$
 > Contents
 
 
-humane
+human
+hamun

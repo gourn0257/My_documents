@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "86996095cac7a8fa",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/인족.md",
     "test.md",
+    "_1Project/ORIEZ/설정/인족.md",
     "README.md",
     "Callout 모음.md",
     "노트 고르기.md",
