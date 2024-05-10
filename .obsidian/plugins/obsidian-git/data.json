@@ -1,5 +1,5 @@
 {
-  "commitMessage": "1.{{numFiles}}",
+  "commitMessage": "files.1.{{numFiles}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 2,
   "autoPushInterval": 5,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "1.{{numFiles}}"
+  "autoCommitMessage": "files.1.{{numFiles}}"
 }
