@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
+                "file": "test.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md"
+                "file": "test.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "a16e1b1f1a128de6",
   "lastOpenFiles": [
-    "Templete/todo.md",
     "_1Project/ORIEZ/설정/보명.md",
+    "Templete/todo.md",
     "Templete/보명.md",
     "Templete/인물.md",
     "Templete/말씀.md",

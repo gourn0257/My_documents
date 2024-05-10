@@ -52,7 +52,10 @@ sdsd
 
 
 
-<table style="border: 2px solid black"><tr><td>sdfsdf</td></tr></table>
+<table style="border: 2px solid black">
+<tr><td>sdfsdf</td></tr>
+<tr><td>sdfs<td/></tr>
+</table>
 
 @ssdfsd
 
