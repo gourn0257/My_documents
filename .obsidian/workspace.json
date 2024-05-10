@@ -15,7 +15,7 @@
               "state": {
                 "file": "_1Project/ORIEZ/설정/인족.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -167,23 +167,23 @@
   },
   "active": "86996095cac7a8fa",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/12존재.md",
-    "_1Project/ORIEZ/설정/인족.md",
-    "_1Project/ORIEZ/설정/보명.md",
     "test.md",
+    "README.md",
+    "Callout 모음.md",
+    "노트 고르기.md",
+    "PARA.md",
+    "Templete/인물.md",
     "Templete/todo.md",
     "Templete/보명.md",
-    "Templete/인물.md",
     "Templete/말씀.md",
+    "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/설정/보명.md",
+    "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/고대룡.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_2Area/말씀/24-05-08.md",
-    "Callout 모음.md",
-    "PARA.md",
-    "README.md",
     "무제 파일.canvas",
-    "노트 고르기.md",
     "2024-05-09.md",
     "_2Area/말씀",
     "_2Area/소설",
