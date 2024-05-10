@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d015cca49e20590c",
+        "id": "0e079efc830f7258",
         "type": "tabs",
         "children": [
           {
-            "id": "a16e1b1f1a128de6",
+            "id": "f99b91da8abb9c4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a16e1b1f1a128de6",
+  "active": "f99b91da8abb9c4c",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/설정/인족.md",
+    "test.md",
     "_1Project/ORIEZ/설정/보명.md",
     "Templete/todo.md",
     "Templete/보명.md",
@@ -177,7 +179,6 @@
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_2Area/말씀/24-05-08.md",
-    "test.md",
     "Callout 모음.md",
     "PARA.md",
     "README.md",
@@ -204,7 +205,6 @@
     "Excalidraw/Drawing 2024-05-07 21.08.52.excalidraw.md",
     "Excalidraw/Drawing 2024-05-07 21.03.26.excalidraw.md",
     "sdsd asd.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
