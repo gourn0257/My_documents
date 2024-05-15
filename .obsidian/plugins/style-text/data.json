@@ -1,9 +1,9 @@
 {
   "styles": [
     {
-      "name": "Large Yellow",
-      "css": "font-size: 20px; color: yellow",
-      "contextMenu": false
+      "name": "작은 글자",
+      "css": "font-size: 80%;",
+      "contextMenu": true
     }
   ]
 }
