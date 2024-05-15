@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a25feaf0beaea43",
+        "id": "d9b6c205bea870d6",
         "type": "tabs",
         "children": [
           {
-            "id": "dcde0fd184c63d0c",
+            "id": "f4ff6a560310d996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/제로.md",
+                "file": "_2Area/말씀/수요말씀/24-05-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/제로.md",
+                "file": "_2Area/말씀/수요말씀/24-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/제로.md",
+                "file": "_2Area/말씀/수요말씀/24-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/제로.md"
+                "file": "_2Area/말씀/수요말씀/24-05-15.md"
               }
             }
           },
@@ -165,15 +165,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcde0fd184c63d0c",
+  "active": "84b5b7a3dbb93dad",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/보명.md",
+    "_2Area/말씀/수요말씀/24-05-08.md",
+    "_2Area/말씀/수요말씀/24-05-15.md",
+    "_2Area/말씀/주일말씀",
+    "_2Area/말씀/수요말씀",
+    "Templete/말씀.md",
     "_1Project/ORIEZ/설정/제로.md",
+    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/12존재.md",
     "Templete/인물.md",
-    "_2Area/말씀/24-05-08.md",
     "test.md",
     "README.md",
     "Callout 모음.md",
@@ -181,7 +185,6 @@
     "PARA.md",
     "Templete/todo.md",
     "Templete/보명.md",
-    "Templete/말씀.md",
     "_1Project/ORIEZ/인물/고대룡.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
@@ -201,10 +204,6 @@
     "~$한처음에.docx",
     "Excalidraw/Drawing 2024-05-07 23.04.33.excalidraw.md",
     "Excalidraw/Drawing 2024-05-07 21.29.19.excalidraw.md",
-    "_3Resource/Fonts",
-    "_3Resource/Fonts/NanumDaHaengCe.ttf",
-    "Templete",
-    "Excalidraw/Drawing 2024-05-07 21.08.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 21.03.26.excalidraw.md"
+    "_3Resource/Fonts"
   ]
 }
