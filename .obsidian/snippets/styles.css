@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 span.id1 {
     color: red;
 }
@@ -13,6 +20,10 @@ span.id1 {
 } */
 
 
-[data-path^="obsidian://open?vault=My%20documents&file=_1Project%2FORIEZ%2F%EC%84%A4%EC%A0%95%2F%EB%B3%B4%EB%AA%85"] .callout[data-callout="cite"] {
+/* [data-path^="obsidian://open?vault=My%20documents&file=_1Project%2FORIEZ%2F%EC%84%A4%EC%A0%95%2F%EB%B3%B4%EB%AA%85"] .callout[data-callout="cite"] {
     width: 130%;
+} */
+
+div.markdown-preview-sizer {
+    font-family: 'MaruBuri-Regular';
 }
