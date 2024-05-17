@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "728971f3144d6ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f32f573ee0990c68",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ab043e81da8fb8ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/보명.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "728971f3144d6ff3",
+  "active": "ab043e81da8fb8ba",
   "lastOpenFiles": [
-    "test.md",
     "_1Project/ORIEZ/설정/보명.md",
+    "test.md",
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
