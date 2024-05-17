@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7e6cf2999326127c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인족.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/사쇄.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/사쇄.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/사쇄.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -165,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b4dcedf86273bc7",
+  "active": "7e6cf2999326127c",
   "lastOpenFiles": [
     "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/인족.md",
