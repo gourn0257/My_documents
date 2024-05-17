@@ -30,9 +30,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "728971f3144d6ff3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e6cf2999326127c",
+  "active": "728971f3144d6ff3",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/제로.md",
     "_1Project/ORIEZ/설정/12존재.md",
     "_2Area/말씀/수요말씀/24-05-15.md",
