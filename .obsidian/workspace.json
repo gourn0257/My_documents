@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "09bcd97b7161681f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "99afe57ec6a58e5c",
             "type": "leaf",
             "state": {
@@ -38,9 +26,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d00817fed06acdd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/보명.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,9 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09bcd97b7161681f",
+  "active": "d00817fed06acdd8",
   "lastOpenFiles": [
     "_1Project/ORIEZ/설정/인족.md",
+    "_2Area/메모.md",
     "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "test.md",
@@ -225,7 +226,6 @@
     "_2Area/소설/한처음에.docx",
     "~$한처음에.docx",
     "Excalidraw/Drawing 2024-05-07 23.04.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 21.29.19.excalidraw.md",
     "_3Resource/Fonts"
   ]
 }
