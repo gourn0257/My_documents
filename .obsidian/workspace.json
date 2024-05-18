@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md"
+                "file": "_1Project/ORIEZ/설정/보명.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99afe57ec6a58e5c",
+  "active": "c2330cd7624fff75",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "test.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
