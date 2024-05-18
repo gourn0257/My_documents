@@ -22,13 +22,12 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22353dece4275dc0",
+  "active": "f32f573ee0990c68",
   "lastOpenFiles": [
-    "신화.md",
     "_1Project/ORIEZ/설정/보명.md",
+    "신화.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/설정/제로.md",
