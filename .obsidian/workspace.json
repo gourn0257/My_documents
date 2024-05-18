@@ -16,25 +16,25 @@
             }
           },
           {
-            "id": "c04f360b2c08f65b",
+            "id": "d259cc39b1e6f73e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/세계or무대or배경/무제 파일.md",
+                "file": "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "22353dece4275dc0",
+            "id": "ff83e3b4953bec77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "source",
+                "file": "_1Project/ORIEZ/설정/12존재.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/세계or무대or배경/무제 파일.md",
+                "file": "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/세계or무대or배경/무제 파일.md",
+                "file": "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/세계or무대or배경/무제 파일.md"
+                "file": "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md"
               }
             }
           },
@@ -186,11 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c04f360b2c08f65b",
+  "active": "d259cc39b1e6f73e",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/세계or무대or배경/무제 파일.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+    "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
+    "_1Project/ORIEZ/설정/12존재.md",
+    "_1Project/ORIEZ/세계or무대or배경/계.md",
     "_1Project/ORIEZ/설정/보명.md",
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/세계or무대or배경/무제 폴더",
     "_1Project/ORIEZ/세계or무대or배경",
     "_1Project/ORIEZ/인물/단체",
@@ -201,7 +203,6 @@
     "_2Area/메모.md",
     "test.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
-    "_1Project/ORIEZ/설정/12존재.md",
     "_2Area/말씀/수요말씀/24-05-15.md",
     "_2Area/말씀/수요말씀/24-05-08.md",
     "_2Area/말씀/주일말씀",
@@ -221,7 +222,6 @@
     "2024-05-09.md",
     "_2Area/말씀",
     "_2Area/소설",
-    "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "_3Resource/Images/Pasted image 20240506233136.png",
     "_1Project/ORIEZ/설정",
