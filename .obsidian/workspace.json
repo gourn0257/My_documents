@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/보명.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/인족.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -188,8 +188,8 @@
   },
   "active": "09bcd97b7161681f",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "test.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
