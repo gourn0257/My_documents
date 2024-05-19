@@ -4,6 +4,11 @@
       "name": "작은 글자",
       "css": "font-size: 80%;",
       "contextMenu": true
+    },
+    {
+      "name": "회색",
+      "css": "color: #666666",
+      "contextMenu": true
     }
   ]
 }
