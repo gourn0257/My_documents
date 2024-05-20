@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/사건/무제 파일.md",
+                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/사건/무제 파일.md",
+                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/사건/무제 파일.md",
+                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/사건/무제 파일.md"
+                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "ca892d985f679b17",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/세계or무대or배경/계.md",
+    "_1Project/ORIEZ/사건/무제 파일.md",
     "_1Project/ORIEZ/사건",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
-    "_1Project/ORIEZ/사건/무제 파일.md",
     "test.md",
     "_2Area/말씀/주일말씀/24-05-19.md",
     "Templete/말씀.md",
@@ -177,7 +178,6 @@
     "2024-05-19.md",
     "_1Project/ORIEZ/설정/12존재.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
-    "_1Project/ORIEZ/세계or무대or배경/계.md",
     "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/세계or무대or배경/무제 폴더",
     "_1Project/ORIEZ/세계or무대or배경",
@@ -204,7 +204,6 @@
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "_3Resource/Images/Pasted image 20240506233136.png",
     "_1Project/ORIEZ/설정",
-    "_1Project/ORIEZ",
-    "_2Area/~$한처음에.docx"
+    "_1Project/ORIEZ"
   ]
 }
