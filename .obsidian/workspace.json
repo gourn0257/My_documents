@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
-                "mode": "source",
+                "file": "test.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md"
+                "file": "test.md"
               }
             }
           },
@@ -167,12 +167,12 @@
   },
   "active": "d259cc39b1e6f73e",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_2Area/말씀/주일말씀/24-05-19.md",
     "test.md",
     "Templete/말씀.md",
     "_2Area/말씀/수요말씀/24-05-15.md",
     "2024-05-19.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/설정/12존재.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
     "_1Project/ORIEZ/세계or무대or배경/계.md",

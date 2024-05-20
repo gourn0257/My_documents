@@ -27,3 +27,8 @@ span.id1 {
 div.markdown-preview-sizer {
     font-family: 'MaruBuri-Regular';
 }
+
+.first_class h6 {
+    background-color: aquamarine;
+    color: black;
+}
