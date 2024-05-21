@@ -14,7 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c8ac0cf28390981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인족.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -175,8 +187,9 @@
   },
   "active": "ca892d985f679b17",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/사건/무제 파일.md",
+    "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+    "_1Project/ORIEZ/사건/무제 파일.md",
     "_1Project/ORIEZ/세계or무대or배경/계.md",
     "_1Project/ORIEZ/사건",
     "test.md",
@@ -192,7 +205,6 @@
     "_1Project/ORIEZ/인물/단체",
     "신화.md",
     "_1Project/ORIEZ/설정/사쇄.md",
-    "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/설정/제로.md",
     "_2Area/메모.md",
     "_2Area/말씀/수요말씀/24-05-08.md",
