@@ -14,9 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "dd04ce168b81a805",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -167,10 +175,10 @@
   },
   "active": "ca892d985f679b17",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/세계or무대or배경/계.md",
     "_1Project/ORIEZ/사건/무제 파일.md",
-    "_1Project/ORIEZ/사건",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+    "_1Project/ORIEZ/세계or무대or배경/계.md",
+    "_1Project/ORIEZ/사건",
     "test.md",
     "_2Area/말씀/주일말씀/24-05-19.md",
     "Templete/말씀.md",
