@@ -96,3 +96,5 @@ $\quad$들여쓰기테스트들여쓰기테스트들여쓰기테스트들여쓰�
 
 
 ###### h6 test
+
+[My Note](<obsidian://open?vault=MainVault&file=My Note.md>)
