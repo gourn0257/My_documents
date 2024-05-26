@@ -6,7 +6,7 @@
       {
         "id": "381f84f1d714780c",
         "type": "tabs",
-        "dimension": 62.27064220183486,
+        "dimension": 62.09862385321101,
         "children": [
           {
             "id": "ca892d985f679b17",
@@ -51,7 +51,7 @@
               "type": "markdown",
               "state": {
                 "file": "_1Project/ORIEZ/설정/뤠폰.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
       {
         "id": "cf48f31ef5a3bec0",
         "type": "tabs",
-        "dimension": 37.72935779816514,
+        "dimension": 37.90137614678899,
         "children": [
           {
             "id": "513d131f7dfac93e",
@@ -244,22 +244,26 @@
   },
   "active": "82c65bee9215af6a",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/인족.md",
-    "_1Project/ORIEZ/설정/뤠폰.md",
     "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
     "_1Project/ORIEZ/설정/축복과 저주.md",
+    "Callout 모음.md",
+    "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-07 23.04.33.excalidraw.md",
+    "_3Resource/Images/Pasted image 20240506233136.png",
+    "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
+    "test.md",
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+    "_1Project/ORIEZ/설정/뤠폰.md",
+    "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/고대룡.md",
     "_2Area/메모.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/사건/무제 파일.md",
     "무제 파일.md",
     "무제 파일.canvas",
     "그랜드 노바.md",
     "_1Project/ORIEZ/설정/보명.md",
-    "test.md",
-    "Callout 모음.md",
     "_1Project/ORIEZ/세계or무대or배경/계.md",
     "_1Project/ORIEZ/사건",
     "_2Area/말씀/주일말씀/24-05-19.md",
@@ -273,14 +277,10 @@
     "_1Project/ORIEZ/인물/단체",
     "신화.md",
     "_1Project/ORIEZ/설정/사쇄.md",
-    "_1Project/ORIEZ/설정/제로.md",
-    "_2Area/말씀/수요말씀/24-05-08.md",
     "_2Area/말씀/주일말씀",
     "_2Area/말씀/수요말씀",
     "_2Area/말씀",
     "_2Area/소설",
-    "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
-    "_3Resource/Images/Pasted image 20240506233136.png",
     "_1Project/ORIEZ/설정",
     "_1Project/ORIEZ"
   ]
