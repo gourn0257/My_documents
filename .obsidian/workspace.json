@@ -56,42 +56,6 @@
             }
           },
           {
-            "id": "808b62b91b19fd89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/인물/고대룡.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c104ab4b794868ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/인물/황룡.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "04b66b07b2dcff39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/인물/흑룡.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7048bc173920b257",
             "type": "leaf",
             "state": {
@@ -102,9 +66,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "513d131f7dfac93e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/인물/흑룡.md",
+                "file": "_1Project/ORIEZ/설정/뤠폰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/인물/흑룡.md",
+                "file": "_1Project/ORIEZ/설정/뤠폰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/인물/흑룡.md"
+                "file": "_1Project/ORIEZ/설정/뤠폰.md"
               }
             }
           },
@@ -250,13 +222,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04b66b07b2dcff39",
+  "active": "dd04ce168b81a805",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/설정/축복과 저주.md",
+    "_1Project/ORIEZ/설정/뤠폰.md",
+    "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/고대룡.md",
-    "_1Project/ORIEZ/인물/흑룡.md",
-    "_1Project/ORIEZ/설정/뤠폰.md",
-    "_1Project/ORIEZ/설정/축복과 저주.md",
     "_2Area/메모.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/설정/인족.md",
