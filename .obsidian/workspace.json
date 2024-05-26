@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5111819fe0df6a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인족.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "dd04ce168b81a805",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -185,13 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca892d985f679b17",
+  "active": "5111819fe0df6a46",
   "lastOpenFiles": [
     "_1Project/ORIEZ/사건/무제 파일.md",
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "무제 파일.md",
     "무제 파일.canvas",
     "_1Project/ORIEZ/설정/인족.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "그랜드 노바.md",
     "_1Project/ORIEZ/설정/보명.md",
     "test.md",
