@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
-                "mode": "preview",
+                "file": "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -222,10 +222,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd04ce168b81a805",
+  "active": "5111819fe0df6a46",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/축복과 저주.md",
+    "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
     "_1Project/ORIEZ/설정/뤠폰.md",
+    "_1Project/ORIEZ/설정/축복과 저주.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/고대룡.md",
@@ -256,7 +257,6 @@
     "_2Area/말씀/수요말씀/24-05-08.md",
     "_2Area/말씀/주일말씀",
     "_2Area/말씀/수요말씀",
-    "Templete/인물.md",
     "_2Area/말씀",
     "_2Area/소설",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
