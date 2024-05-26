@@ -47,11 +47,16 @@
             "id": "dd04ce168b81a805",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/뤠폰.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "_1Project/ORIEZ/설정/뤠폰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "_1Project/ORIEZ/설정/뤠폰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md"
+                "file": "_1Project/ORIEZ/설정/뤠폰.md"
               }
             }
           },
@@ -197,11 +202,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca892d985f679b17",
+  "active": "dd04ce168b81a805",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/설정/뤠폰.md",
+    "_2Area/메모.md",
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/사건/무제 파일.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "무제 파일.md",
     "무제 파일.canvas",
     "그랜드 노바.md",
@@ -222,7 +229,6 @@
     "신화.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "_1Project/ORIEZ/설정/제로.md",
-    "_2Area/메모.md",
     "_2Area/말씀/수요말씀/24-05-08.md",
     "_2Area/말씀/주일말씀",
     "_2Area/말씀/수요말씀",
@@ -231,7 +237,6 @@
     "노트 고르기.md",
     "PARA.md",
     "Templete/todo.md",
-    "Templete/보명.md",
     "_2Area/말씀",
     "_2Area/소설",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
