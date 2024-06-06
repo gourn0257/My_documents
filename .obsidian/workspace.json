@@ -67,8 +67,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9d12769095dfa14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_2Area/말씀/청년특강.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "cf48f31ef5a3bec0",
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "_2Area/말씀/청년특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+                "file": "_2Area/말씀/청년특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/인물/단체/세븐나이츠.md"
+                "file": "_2Area/말씀/청년특강.md"
               }
             }
           },
@@ -229,8 +242,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca892d985f679b17",
+  "active": "9d12769095dfa14d",
   "lastOpenFiles": [
+    "_2Area/말씀/청년특강.md",
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_2Area/말씀/수요말씀/24-06-05.md",
     "무제 파일.md",
     "_2Area/말씀/수요말씀/24-05-15.md",
@@ -246,7 +261,6 @@
     "_3Resource/Images/Pasted image 20240506233136.png",
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "test.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/인물/흑룡.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/고대룡.md",
@@ -260,7 +274,6 @@
     "Templete/말씀.md",
     "2024-05-19.md",
     "_1Project/ORIEZ/설정/12존재.md",
-    "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
     "_1Project/ORIEZ/세계or무대or배경/무제 폴더",
     "_1Project/ORIEZ/세계or무대or배경",
     "_1Project/ORIEZ/인물/단체",
