@@ -162,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_2Area/말씀/청년특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_2Area/말씀/청년특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_2Area/말씀/청년특강.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d12769095dfa14d",
+  "active": "513d131f7dfac93e",
   "lastOpenFiles": [
     "_2Area/말씀/청년특강.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
