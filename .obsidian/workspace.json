@@ -77,9 +77,21 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "02029a4793df110d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_2Area/말씀/청년특강.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "cf48f31ef5a3bec0",
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/축복과 저주.md",
+                "file": "_2Area/말씀/청년특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/축복과 저주.md",
+                "file": "_2Area/말씀/청년특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/축복과 저주.md"
+                "file": "_2Area/말씀/청년특강.md"
               }
             }
           },
@@ -240,7 +252,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c42137dae3a291d",
+  "active": "02029a4793df110d",
   "lastOpenFiles": [
     "_2Area/말씀/청년특강.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
