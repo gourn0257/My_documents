@@ -184,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,9 +221,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -264,7 +260,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02029a4793df110d",
+  "active": "513d131f7dfac93e",
   "lastOpenFiles": [
     "_2Area/메모.md",
     "_2Area/말씀/수요말씀/24-06-19.md",
