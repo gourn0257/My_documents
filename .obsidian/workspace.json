@@ -91,6 +91,16 @@
             }
           },
           {
+            "id": "0f98b2144210bd0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "02029a4793df110d",
             "type": "leaf",
             "state": {
@@ -103,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "cf48f31ef5a3bec0",
@@ -276,7 +286,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4050ee2ce9fa0fb",
+  "active": "0f98b2144210bd0d",
   "lastOpenFiles": [
     "_1Project/ORIEZ/인물/고대룡.md",
     "_1Project/ORIEZ/인물/흑기사.md",
