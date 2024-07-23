@@ -69,16 +69,6 @@
             }
           },
           {
-            "id": "3c42137dae3a291d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
             "id": "a4050ee2ce9fa0fb",
             "type": "leaf",
             "state": {
@@ -91,29 +81,19 @@
             }
           },
           {
-            "id": "0f98b2144210bd0d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
             "id": "02029a4793df110d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-26.md",
-                "mode": "source",
+                "file": "_1Project/ORIEZ/인물/고대룡.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "cf48f31ef5a3bec0",
@@ -207,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-26.md",
+                "file": "_1Project/ORIEZ/인물/고대룡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-26.md",
+                "file": "_1Project/ORIEZ/인물/고대룡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_2Area/말씀/수요말씀/24-06-26.md"
+                "file": "_1Project/ORIEZ/인물/고대룡.md"
               }
             }
           },
@@ -290,13 +270,14 @@
   "active": "02029a4793df110d",
   "lastOpenFiles": [
     "_2Area/메모.md",
+    "_1Project/ORIEZ/인물/고대룡.md",
     "_2Area/말씀/수요말씀/24-06-26.md",
+    "_1Project/ORIEZ/인물/흑기사.md",
+    "_1Project/ORIEZ/설정/축복과 저주.md",
     "_2Area/말씀/수요말씀/24-05-08.md",
     "_2Area/말씀/수요말씀/24-06-19.md",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
-    "_1Project/ORIEZ/인물/고대룡.md",
-    "_1Project/ORIEZ/인물/흑기사.md",
     "_2Area/말씀/수요말씀/24-06-05.md",
     "_2Area/말씀/수요말씀/24-05-15.md",
     "_2Area/말씀/주일말씀/24-05-19.md",
@@ -307,7 +288,6 @@
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/설정/뤠폰.md",
     "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
-    "_1Project/ORIEZ/설정/축복과 저주.md",
     "_1Project/ORIEZ/설정/사쇄.md",
     "Callout 모음.md",
     "Excalidraw/Drawing 2024-05-07 20.55.50.excalidraw.md",
