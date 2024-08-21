@@ -6,7 +6,7 @@
       {
         "id": "381f84f1d714780c",
         "type": "tabs",
-        "dimension": 72.70642201834863,
+        "dimension": 70.47018348623854,
         "children": [
           {
             "id": "ca892d985f679b17",
@@ -74,7 +74,7 @@
       {
         "id": "cf48f31ef5a3bec0",
         "type": "tabs",
-        "dimension": 27.293577981651374,
+        "dimension": 29.52981651376147,
         "children": [
           {
             "id": "513d131f7dfac93e",
@@ -96,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,11 +238,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35dc7b4d2649e65f",
+  "active": "513d131f7dfac93e",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/설정/뤠폰.md",
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
-    "_1Project/ORIEZ/설정/뤠폰.md",
     "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
     "_1Project/ORIEZ/설정/축복과 저주.md",
     "_1Project/ORIEZ/인물/흑기사.md",
