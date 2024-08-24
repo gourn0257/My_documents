@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "586bdab844b506b5",
+        "id": "c4f0e536e0ab3819",
         "type": "tabs",
         "children": [
           {
-            "id": "7f8242d086042627",
+            "id": "2fddeb9601a7dd2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f8242d086042627",
+  "active": "2fddeb9601a7dd2b",
   "lastOpenFiles": [
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
