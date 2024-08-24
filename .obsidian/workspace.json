@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
-                "mode": "source",
+                "file": "_1Project/ORIEZ/설정/보명.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_1Project/ORIEZ/설정/보명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md"
+                "file": "_1Project/ORIEZ/설정/보명.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "2fddeb9601a7dd2b",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/설정/뤠폰.md",
     "_2Area/소설/~$한처음에.docx",
