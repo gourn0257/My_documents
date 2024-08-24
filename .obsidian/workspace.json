@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "움직이는",
+                "query": "인간",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,15 +165,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84b5b7a3dbb93dad",
+  "active": "2fddeb9601a7dd2b",
   "lastOpenFiles": [
+    "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+    "_1Project/ORIEZ/설정/뤠폰.md",
     "_2Area/소설/~$한처음에.docx",
     "_2Area/메모.md",
     "_1Project/ORIEZ/설정/축복과 저주.md",
     "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
-    "_1Project/ORIEZ/설정/뤠폰.md",
     "_1Project/ORIEZ/인물/흑기사.md",
     "_1Project/ORIEZ/설정/9개의 세계의 열쇠.md",
     "_1Project/ORIEZ/인물/고대룡.md",
@@ -196,7 +197,6 @@
     "_3Resource/Images/Pasted Image 20240507210219_360.jpg",
     "test.md",
     "_1Project/ORIEZ/인물/흑룡.md",
-    "_1Project/ORIEZ/인물/황룡.md",
     "무제 파일.canvas",
     "_1Project/ORIEZ/사건",
     "_1Project/ORIEZ/세계or무대or배경/무제 폴더",
