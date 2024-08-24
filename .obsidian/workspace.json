@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "움직이는",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fddeb9601a7dd2b",
+  "active": "84b5b7a3dbb93dad",
   "lastOpenFiles": [
     "_1Project/ORIEZ/설정/인족.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
