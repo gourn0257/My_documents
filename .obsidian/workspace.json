@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f0e536e0ab3819",
+        "id": "45bdeea067fa2c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "2fddeb9601a7dd2b",
+            "id": "fa7f3ce39569177c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,9 +165,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fddeb9601a7dd2b",
+  "active": "fa7f3ce39569177c",
   "lastOpenFiles": [
     "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/설정/뤠폰.md",
