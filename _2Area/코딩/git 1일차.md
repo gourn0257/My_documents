@@ -11,7 +11,7 @@ git init
 
 
 
-// 
+// 파일을 사용하고 저장 후
 git add 파일이름
 git commit -m "메모"
 
