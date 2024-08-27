@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "d735f891dc943bc8",
+            "id": "2c361bd6aeda41a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
-                "mode": "preview",
+                "file": "_2Area/코딩/git 1일차.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_2Area/코딩/git 1일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md",
+                "file": "_2Area/코딩/git 1일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/인족.md"
+                "file": "_2Area/코딩/git 1일차.md"
               }
             }
           },
@@ -191,12 +190,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d735f891dc943bc8",
+  "active": "2c361bd6aeda41a7",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/뤠폰.md",
-    "_1Project/ORIEZ/설정/인족.md",
-    "_1Project/ORIEZ/설정/보명.md",
+    "_2Area/코딩/git 1일차.md",
+    "_2Area/코딩",
     "_2Area/메모.md",
+    "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/설정/뤠폰.md",
+    "_1Project/ORIEZ/설정/보명.md",
     "_2Area/소설/~$한처음에.docx",
     "_1Project/ORIEZ/인물/황룡.md",
     "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
@@ -231,7 +232,6 @@
     "_2Area/말씀/주일말씀",
     "_2Area/말씀/수요말씀",
     "_2Area/말씀",
-    "_2Area/소설",
-    "_1Project/ORIEZ/설정"
+    "_2Area/소설"
   ]
 }
