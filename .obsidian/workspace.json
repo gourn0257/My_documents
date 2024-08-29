@@ -54,21 +54,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ea52408c6ac7d5de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "링",
+                "query": "정령",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_1Project/ORIEZ/설정/뤠폰.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -214,17 +203,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea52408c6ac7d5de",
+  "active": "718aaccebab041f1",
   "lastOpenFiles": [
-    "_1Project/ORIEZ/설정/인족.md",
+    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
+    "_1Project/ORIEZ/설정/보명.md",
     "_1Project/ORIEZ/설정/뤠폰.md",
+    "_1Project/ORIEZ/설정/인족.md",
     "_2Area/코딩/git 1일차.md",
     "_2Area/코딩",
     "_2Area/메모.md",
-    "_1Project/ORIEZ/설정/보명.md",
     "_2Area/소설/~$한처음에.docx",
     "_1Project/ORIEZ/인물/황룡.md",
-    "_1Project/ORIEZ/인물/단체/세븐나이츠.md",
     "_1Project/ORIEZ/설정/축복과 저주.md",
     "_1Project/ORIEZ/세계or무대or배경/그랜드 월드.md",
     "_1Project/ORIEZ/인물/흑기사.md",
