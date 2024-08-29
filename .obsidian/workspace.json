@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "718aaccebab041f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_1Project/ORIEZ/설정/인족.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_2Area/코딩/git 1일차.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_2Area/코딩/git 1일차.md",
+                "file": "_1Project/ORIEZ/설정/인족.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_2Area/코딩/git 1일차.md"
+                "file": "_1Project/ORIEZ/설정/인족.md"
               }
             }
           },
@@ -190,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c361bd6aeda41a7",
+  "active": "718aaccebab041f1",
   "lastOpenFiles": [
     "_2Area/코딩/git 1일차.md",
     "_2Area/코딩",
