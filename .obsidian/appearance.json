@@ -3,7 +3,7 @@
   "showViewHeader": true,
   "theme": "system",
   "baseFontSizeAction": true,
-  "baseFontSize": 19,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
     "styles"
   ]
